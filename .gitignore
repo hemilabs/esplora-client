@@ -1,6 +1,7 @@
 _cjs
 _esm
 _types
+.DS_Store
 .eslintcache
 .nyc_output
 .vscode
